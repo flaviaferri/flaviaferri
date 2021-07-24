@@ -30,15 +30,18 @@
 ![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=ffff)
 ![Next.js](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=next.js&logoColor=ffff)
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
 ![Emotion.sh](https://img.shields.io/badge/Emotion.sh-D36AC2?style=for-the-badge&logoColor=white)
+![Material](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
   <a href="https://github.com/flaviaferri">
-    <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=flaviaferri&show_icons=true" />
-    <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaferri&layout=compact" />
+    <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=flaviaferri&show_icons=true" />
+    <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviaferri&layout=compact" />
   </a>
 </p>
 
