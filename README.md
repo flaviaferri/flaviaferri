@@ -20,7 +20,6 @@
 </div>
 
 ## About me
-- 💼 Currently looking for opportunities 
 - 🎓 Graduated in Bussiness and IT
 - 👩‍💻 From Bank/Financial area to IT
 
