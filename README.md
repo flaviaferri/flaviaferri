@@ -20,7 +20,6 @@
 </div>
 
 ## About me
-- 🎓 Graduated in Bussiness and IT
 - 👩‍💻 From Bank/Financial area to IT
 
 ## Tech stack
